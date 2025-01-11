@@ -10,3 +10,19 @@ The objective of this project is to provide a comprehensive analysis of sales da
 - Total number of orders
 - Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtering using visual filters.(Product/Date/Customer ID/Promotion Categories)
 - Show sales by different cities
+## Report Pages
+
+![PAGE_1]( https://github.com/CASKEDOW77/Sales-Data-Analysis/blob/main/PAGE_1.png)
+
+![PAGE_2]( https://github.com/CASKEDOW77/Sales-Data-Analysis/blob/main/PAGE_2.png)
+
+![PAGE_3]( https://github.com/CASKEDOW77/Sales-Data-Analysis/blob/main/PAGE_3.png)
+
+![PAGE_4]( https://github.com/CASKEDOW77/Sales-Data-Analysis/blob/main/PAGE_4.png)
+## Project Insight
+- City-Wise Sales Performance: Sales volume varies significantly across cities, with major contributions from metropolitan areas such as Mumbai, Bangalore, and Delhi.
+- Impact of Promotions: Weekend Flash Sales and Clearance Sales show the highest average discounts, contributing significantly to overall sales.
+- Profitability and Net Sales Correlation: A strong positive correlation between profit and net sales suggests effective pricing strategies.
+- Product Performance: Apple iPhone 14 and Apple MacBook Air are top performers in terms of sales, quantity sold, and profit, while products like Tupperware Lunch Box and L’Oréal Shampoo fall into the bottom-performing category.
+- Sales Trend Analysis: A consistent sales trend is observed from 2020 to 2023, followed by a significant decline in 2024, highlighting potential areas of concern.
+- Dynamic Filters: The inclusion of slicers and detailed table visuals provides a user-friendly way to explore data at a granular level, offering enhanced interactivity.
